@@ -59,7 +59,7 @@ I would like to build an app called "BookBuddy" that connects book lovers. The a
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+
 The main challenge was figuring out how to implement the button press event and change the screen color.
 
 
