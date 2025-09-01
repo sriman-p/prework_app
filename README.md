@@ -15,7 +15,7 @@ The following **required** functionality is completed:
 
 ## Video Walkthrough
 
-![git](<Screen Recording 2025-09-01 at 3.56.44 PM.gif>)
+![git](<gif_file.gif>)
 
 
 
