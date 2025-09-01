@@ -17,7 +17,7 @@ The following **required** functionality is completed:
 
 ![git](<Screen Recording 2025-09-01 at 3.56.44 PM.gif>)
 
-## App Brainstorming (Step 4)
+
 
 
 ## App Brainstorming
